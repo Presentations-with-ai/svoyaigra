@@ -1,0 +1,2 @@
+# svoyaigra
+gemini or canva
